@@ -1,6 +1,4 @@
-/* S C R E E N 2 . C */
-/* This routine sets up the screen position used by Word relative to the
-current device. */
+
 
 #define NOGDICAPMASKS
 #define NOVIRTUALKEYCODES
